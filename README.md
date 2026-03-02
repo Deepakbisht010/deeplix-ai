@@ -1,4 +1,4 @@
-# Nexus AI — Intelligent Productivity Platform
+# Deeplix Ai — Intelligent Productivity Platform
 
 > A full-stack, production-ready AI-powered productivity application built with React, Node.js/Express, MongoDB, and Claude AI.
 
