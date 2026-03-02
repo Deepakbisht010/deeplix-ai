@@ -283,5 +283,6 @@ MIT License — Free to use, modify, and distribute.
 ---
 
 Built with ❤️ using React, Node.js, MongoDB, and Claude AI by Anthropic.
-#   d e e p l i x - a i  
+#   d e e p l i x - a i 
+ 
  
