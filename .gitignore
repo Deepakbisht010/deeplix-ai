@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+.npm
+
+# Environment variables - NEVER commit these
+.env
+backend/.env
+frontend/.env.local
+
+# Build outputs
+frontend/build/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# MongoDB local data
+data/db/
